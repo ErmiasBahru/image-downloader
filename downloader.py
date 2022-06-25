@@ -72,7 +72,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "url", help="the URL of the web page you want to dwonload images")
     parser.add_argument(
-        "-p", "--path", help="the directory you want to store your images, default is the doain of URL")
+        "-p", "--path", help="the directory you want to store your images, default is the domain of URL")
 
     args = parser.parse_args()
     url = args.url
