@@ -1,4 +1,3 @@
 requests
-requests_html
 bs4
 tqdm
