@@ -5,9 +5,8 @@
 ### Required:
 
 1. requests
-2. requests_html
-3. bs4
-4. tqdm
+2. bs4
+3. tqdm
 
 ### Install required dependencies:
 
