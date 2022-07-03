@@ -40,7 +40,3 @@ options:
 ```
 python downloader.py -p ermias https://ermiasbahru.vercel.app/
 ```
-
-### Video:
-
-[demo video](https://user-images.githubusercontent.com/98729397/177032284-e5f594de-a670-413b-bc65-d051d06b0c83.webm)
